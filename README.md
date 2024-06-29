@@ -1,7 +1,9 @@
-# Rate Calendar App 
+# Rate Calendar App
+
 Overview
 
 ## The Rate Calendar App is a web component that displays room rates and availability over a specified date range. It uses the given tech stack and fetches data from the Rate Calendar API. The app's layout and behavior follow the provided guidelines and specifications.
+
 ### Tech Stack
 
     TypeScript
@@ -10,6 +12,7 @@ Overview
     React Query
 
 ## Features
+
 ### Date Range Picker
 
     Displays a date range picker at the top to select the date range (e.g., 06/23/2024 – 08/23/2024).
@@ -49,6 +52,7 @@ Displays each rate plan provided in the API response. For each rate plan, the fo
     Handles loading and error states appropriately.
 
 ## Dependencies
+
 ```
 "dependencies": {
   "@emotion/cache": "^11.11.0",
@@ -87,6 +91,7 @@ Displays each rate plan provided in the API response. For each rate plan, the fo
 The home page contains the date-picking component and buttons to show the details of each room upon clicking. The buttons are labeled with the names of the rooms.
 
 ## Components
+
 ### DateRangePicker
 
 A component that allows users to select a date range.
@@ -109,3 +114,6 @@ Using React Query to fetch data from the Rate Calendar API and manage the loadin
     Install dependencies using npm install or yarn install.
     Run the development server using npm run dev or yarn dev.
     Open the browser and navigate to http://localhost:3000.
+
+
+## Demo

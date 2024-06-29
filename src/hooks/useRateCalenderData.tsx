@@ -10,6 +10,7 @@ export const useRateCalendarData = (start_date?: string, end_date?: string) => {
     queryKey: ["repoData"],
     queryFn: () =>
       fetch(
+        // this api here will be kept on environment variables but assumes a test url for now
         `https://api.bytebeds.com/api/v1/property/1/room/rate-calendar/assessment?start_date=${
           start_date ?? defaultStartDate
         }&end_date=${end_date ?? defaultEndDate}`,
