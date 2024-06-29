@@ -117,3 +117,15 @@ Using React Query to fetch data from the Rate Calendar API and manage the loadin
 
 
 ## Demo
+
+[Home](https://github.com/Eddie2111/rate-calendar/blob/main/demo/image1.png)
+
+[date picker mobile](https://github.com/Eddie2111/rate-calendar/blob/main/demo/image2.png)
+
+[room details](https://github.com/Eddie2111/rate-calendar/blob/main/demo/image3.png)
+
+[mobile view details](https://github.com/Eddie2111/rate-calendar/blob/main/demo/image4.png)
+
+[room view details pc](https://github.com/Eddie2111/rate-calendar/blob/main/demo/image5_pc.png)
+
+[home component pc](https://github.com/Eddie2111/rate-calendar/blob/main/demo/image6_pc.png)
