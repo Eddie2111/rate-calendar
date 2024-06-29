@@ -1,4 +1,6 @@
 // lib/api.ts
+// not used
+// kept for testing purpose
 import axios from "axios";
 
 export const fetchRateCalendarData = async () => {
