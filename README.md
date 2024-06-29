@@ -1,4 +1,4 @@
-# Rate Calendar App Documentation
+# Rate Calendar App 
 Overview
 
 ## The Rate Calendar App is a web component that displays room rates and availability over a specified date range. It uses the given tech stack and fetches data from the Rate Calendar API. The app's layout and behavior follow the provided guidelines and specifications.
